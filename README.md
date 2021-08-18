@@ -34,6 +34,7 @@ Clone this GIT repository:
 ```
 git clone https://github.com/eulyzi/used_car_auction_prices.git
 ```
+**After opening the `*.ipynb` file, remember to `Run All` to see the output.**
 
 ## File Descriptions <a name="files"></a>
 
