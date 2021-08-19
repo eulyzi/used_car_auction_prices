@@ -19,8 +19,8 @@ Nowadays cars have been a necessity to a family. People buy a car, drive it for 
 
 For this project  I analyzed [`Used Car Auction Prices`](https://www.kaggle.com/tunguz/used-car-auction-prices) dataset with  559k rows and I intended to better understand:
 1. When do people sell a car?
-2. Should the valuation made by specilists a fair price?
-3. How do we estimate the valuation of a car without the help of specilists?
+2. Should the valuation made by specialists be a fair price?
+3. How do we estimate the valuation of a car without the help of specialists?
 
 <img src="images/car-718781_1920.jpg">
 
@@ -40,8 +40,8 @@ git clone https://github.com/eulyzi/used_car_auction_prices.git
 
 There are 3 main parts of the project:
  - `time_to_sell.ipynb` contains an insight when it 's time to sell a car for most of deals.
- - `is_valuation_by_specilists_fair.ipynb` shows an understanding whether  people should trust the valuation  by specilists fair. 
- - `prediction_like_specilists.ipynb` diplays a machine learning model to predict the worth of a car by basic infomation of the car.
+ - `is_valuation_by_specialists_fair.ipynb` shows an understanding whether  people should trust the valuation  by specialists fair. 
+ - `prediction_like_specialists.ipynb` diplays a machine learning model to predict the worth of a car by basic information of the car.
  
 Besides these parts.
 - `dataset` folder is used to save dataset.
