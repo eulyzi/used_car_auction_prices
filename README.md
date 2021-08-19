@@ -15,7 +15,7 @@
 
 ## Description<a name="description"></a>
 
-Nowadays cars have been a necessity to a family. People buy a car,drives it for several years and solds it for a new one or evently totals it at last. Before the owner ready to sold a used car, a fair price is most important to both the seller and buyer.
+Nowadays cars have been a necessity to a family. People buy a car, drive it for several years and sold it for a new one or  get it totaled eventually. Before the owner ready to sold a used car, a fair price is most important to both the seller and buyer.
 
 For this project  I analyzed [`Used Car Auction Prices`](https://www.kaggle.com/tunguz/used-car-auction-prices) dataset with  559k rows and I intended to better understand:
 1. When do people sell a car?
