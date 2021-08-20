@@ -39,11 +39,7 @@ git clone https://github.com/eulyzi/used_car_auction_prices.git
 ## File Descriptions <a name="files"></a>
 
 There are 3 main parts of the project:
- - `time_to_sell.ipynb` contains an insight when it 's time to sell a car for most of deals.
- - `is_valuation_by_specialists_fair.ipynb` shows an understanding whether  people should trust the valuation  by specialists fair. 
- - `prediction_like_specialists.ipynb` diplays a machine learning model to predict the worth of a car by basic information of the car.
- 
-Besides these parts.
+- `usd_car_prices4.ipynb` contains an insight about all the 3 questions.
 - `dataset` folder is used to save dataset.
 - `images` folder is used to save picture used by `README.md`
 
